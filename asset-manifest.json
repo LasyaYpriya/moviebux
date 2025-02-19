@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/moviebux/static/css/main.07f7f18d.css",
+    "main.js": "/moviebux/static/js/main.70cbd58a.js",
+    "index.html": "/moviebux/index.html",
+    "main.07f7f18d.css.map": "/moviebux/static/css/main.07f7f18d.css.map",
+    "main.70cbd58a.js.map": "/moviebux/static/js/main.70cbd58a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07f7f18d.css",
+    "static/js/main.70cbd58a.js"
+  ]
+}
