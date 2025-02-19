@@ -155,9 +155,7 @@ const [movies, setMovies] = useState([]);
 const [watchlist, setWatchlist] = useState([]);
 
 useEffect(() =>{
-  fetch(movieData)
-  .then(response => response.json())
-  .then(data => setMovies(data))
+  setMovies(movieData);
    }, []);
 
    const toggleWatchlist =(movieId) => {
