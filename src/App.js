@@ -11,7 +11,7 @@ const movieData = [
   {
     id: 1,
     title: "Dark Storm",
-    image: "1.jpg",
+    image: "images/1.jpg",
     genre: "drama",
     rating: "8.3",
   },
