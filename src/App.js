@@ -7,6 +7,7 @@ import Watchlist from './components/Watchlist';
 import {BrowserRouter as Router, Routes, Route, Link} from "react-router-dom";
 import React, {useState, useEffect} from 'react';
 
+
 function App() {
 const [movies, setMovies] = useState([]);
 const [watchlist, setWatchlist] = useState([]);
@@ -30,7 +31,7 @@ useEffect(() =>{
     <div className="App">
       <div className="container">
         <Header></Header>
-        <Router>
+        <Router basename="/moviebux">
          <nav>  
           <ul>
             <li>
