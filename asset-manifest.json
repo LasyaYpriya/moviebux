@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/moviebux/static/css/main.07f7f18d.css",
-    "main.js": "/moviebux/static/js/main.45c75131.js",
+    "main.js": "/moviebux/static/js/main.b6d0d7bd.js",
     "index.html": "/moviebux/index.html",
     "main.07f7f18d.css.map": "/moviebux/static/css/main.07f7f18d.css.map",
-    "main.45c75131.js.map": "/moviebux/static/js/main.45c75131.js.map"
+    "main.b6d0d7bd.js.map": "/moviebux/static/js/main.b6d0d7bd.js.map"
   },
   "entrypoints": [
     "static/css/main.07f7f18d.css",
-    "static/js/main.45c75131.js"
+    "static/js/main.b6d0d7bd.js"
   ]
 }
